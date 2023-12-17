@@ -1,29 +1,23 @@
 /*
 EM CASO DE DUVIDAS, ENTRE EM CONTATO COMIGO
-WA.ME/5555933005901
+WA.ME/4915735321067
 
 QUER ADQUIRIR O ARQUIVO DESCRIPTOGRAFADO?
 PREÇO 35 REAIS
 
 
- Creditos: 
- XEON : https://github.com/DGXeon/CheemsBot-MD2
- DikaArdnt: https://github.com/DikaArdnt
- https://github.com/MhankBarBar
- Agradecimentos ao Breno/Sayo! Sem ele eu provavelmente já teria desistido dos bots...
  
- acesse https://ayumi-apis.herokuapp.com
- */
+ 
  
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownername = 'brunoww'
+global.ownername = 'Aljoscha und Jannek'
 global.satorukey = 'satoru'
-global.botname = 'Satoru GojoMD'
+global.botname = 'Pommes'
 global.akamekey = 'edbot'
 global.brizaskey = 'brizaloka'
-global.owner = ['5555933005901']
+global.owner = ['19376882406']
 global.packname = 'Satoru GojoMD'
 global.grupolink = 'https://chat.whatsapp.com/HeMepOb2ltNIJPC8vXpgyI'
 global.author = 'bot'
